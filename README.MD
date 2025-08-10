@@ -72,7 +72,7 @@
 ## 🗄️ PokemonCard
 
 - Displays Pokémon image, name, types, and stats.
-- - button to add/remove from collection.
+- button to add/remove from collection.
 - Color-coded type badges.
 - Listens for collectionUpdated to change toggle state instantly.
 
@@ -104,8 +104,8 @@
 
 ## Clone repository
 
-git clone
-cd pokemon-discovery
+- git clone https://github.com/Udaya-Pujari/pokemon_collection_app.git
+- cd pokemon-discovery
 
 ## Install dependencies
 
